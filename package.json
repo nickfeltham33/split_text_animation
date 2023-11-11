@@ -1,0 +1,23 @@
+{
+  "name": "Project Starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@barba/core": "^2.9.7",
+    "gsap": "^3.12.2",
+    "parcel": "^2.10.2",
+    "sass": "^1.69.5",
+    "split-type": "^0.3.4"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.2"
+  }
+}
